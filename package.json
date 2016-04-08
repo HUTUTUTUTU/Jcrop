@@ -1,0 +1,7 @@
+{
+  "name": "jcrop",
+  "version": "0.9.12",
+  "homepage": "https://github.com/tapmodo/Jcrop",
+  "main": "js/jquery.Jcrop.js",
+  "license": "MIT"
+}
