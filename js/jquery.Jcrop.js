@@ -29,7 +29,7 @@
  * }}}
  */
 
-(function ($) {
+define(['jquery'], function ($) {
 
   $.Jcrop = function (obj, opt) {
     var options = $.extend({}, $.Jcrop.defaults),
@@ -1691,4 +1691,4 @@
   };
 
   // }}}
-}(jQuery));
+});
